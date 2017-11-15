@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 15, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Clayton Kuhlmeier)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we learned how to use jquery to add effects to elements of our web page
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
